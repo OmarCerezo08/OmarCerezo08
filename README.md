@@ -73,3 +73,21 @@
     </tr>
   </tbody>
 </table>
+
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/@omar-cerezo/optimizar-procesos-logisticos"><b>🚀 Optimizar procesos logísticos con Power BI</b></a><br/><i>Cómo usar dashboards para mejorar la toma de decisiones.</i></li>
+  <li><a href="https://medium.com/@omar-cerezo/automatizacion-python-logistica"><b>⚙️ Automatización de tareas logísticas con Python</b></a><br/><i>Scripts que ahorran tiempo y reducen errores.</i></li>
+</ul>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/OmarCerezo08"><b>GitHub</b></a> |
+  <a href="https://www.linkedin.com/in/omar-cerezo08"><b>LinkedIn</b></a>
+</p>
+
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
