@@ -96,8 +96,3 @@
   </a>
 </p>
 
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
