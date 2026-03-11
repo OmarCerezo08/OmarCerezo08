@@ -80,12 +80,6 @@
   <li><a href="https://medium.com/@omar-cerezo/automatizacion-python-logistica"><b>⚙️ Automatización de tareas logísticas con Python</b></a><br/><i>Scripts que ahorran tiempo y reducen errores.</i></li>
 </ul>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://medium.com/@omar-cerezo/optimizar-procesos-logisticos"><b>🚀 Optimizar procesos logísticos con Power BI</b></a><br/><i>Cómo usar dashboards para mejorar la toma de decisiones.</i></li>
-  <li><a href="https://medium.com/@omar-cerezo/automatizacion-python-logistica"><b>⚙️ Automatización de tareas logísticas con Python</b></a><br/><i>Scripts que ahorran tiempo y reducen errores.</i></li>
-</ul>
-
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/OmarCerezo08">
