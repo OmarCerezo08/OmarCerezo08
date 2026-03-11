@@ -88,26 +88,13 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/OmarCerezo08" class="button">GitHub</a>
-  <a href="https://www.linkedin.com/in/omar-cerezo08" class="button">LinkedIn</a>
+  <a href="https://github.com/OmarCerezo08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omar-cerezo08">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
-
-<style>
-  .button {
-    display: inline-block;
-    padding: 8px 16px;
-    margin: 4px;
-    font-size: 14px;
-    font-weight: bold;
-    color: white;
-    background-color: #343b41;
-    border-radius: 6px;
-    text-decoration: none;
-  }
-  .button:hover {
-    background-color: #0077b5; /* azul LinkedIn al pasar el mouse */
-  }
-</style>
 
       <td><img alt="Issues" src="https://img.shields.io/github/issues/?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/?style=flat-square&labelColor=343b41"/></td>
